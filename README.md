@@ -1,2 +1,2 @@
 # Human-Fall-Flat-Mod
-・ChatTranslator　自動翻訳Mod
+・自動翻訳Mod.ChatTranslator
